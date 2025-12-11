@@ -11,7 +11,7 @@ This is a robust, production-ready authentication backend built with Node.js, Ex
 ### Quick Start
 1.  **Clone & Install**:
     ```bash
-    git clone <repo>
+    git clone https://github.com/Albert-4096/auth-system
     cd auth-system
     npm install
     ```
